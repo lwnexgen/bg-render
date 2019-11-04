@@ -1,0 +1,13 @@
+{
+    "name": "Gym",
+    "layout": "
+*****
+*BB**
+*B`**
+*****
+*****",
+    "base": 4,
+    "fort": 1,
+    "item": 2,
+    "skills": ["syringe", "running-man"]
+}

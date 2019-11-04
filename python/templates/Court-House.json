@@ -1,0 +1,14 @@
+{
+    "name": "Court House",
+    "layout": "
+*****
+*BBU*
+*LBB*
+**D**
+*****",
+    "base": 6,
+    "fort": 2,
+    "item": 1,
+    "skills": ["running-man", "hammer-nails"]
+}
+

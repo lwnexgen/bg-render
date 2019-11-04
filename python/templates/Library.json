@@ -1,0 +1,13 @@
+{
+    "name": "Library",
+    "layout": "
+*****
+***R*
+*BBB*
+*LBD*
+*****",
+    "base": 4,
+    "fort": 1,
+    "item": 1,
+    "skills": ["book", "hammer-nails"]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Gas Station",
+    "layout": "
+*****
+***L*
+***B*
+***L*
+*****",
+    "base": 5,
+    "fort": 1,
+    "item": 1,
+    "skills": ["running-man", "padlock"]
+}

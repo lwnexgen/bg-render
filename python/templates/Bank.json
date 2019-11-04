@@ -1,0 +1,13 @@
+{
+    "name": "Bank",
+    "layout": "
+*****
+*BUB*
+*BDB*
+*B*R*
+*****",
+    "base": 7,
+    "fort": 1,
+    "item": 1,
+    "skills": ["running-man", "hammer-nails"]
+}

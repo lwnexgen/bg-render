@@ -1,0 +1,13 @@
+{
+    "name": "Graveyard",
+    "layout": "
+*****
+*****
+**R**
+*****
+*****",
+    "base": 3,
+    "fort": 1,
+    "item": 1,
+    "skills": ["book", "tools"]
+}

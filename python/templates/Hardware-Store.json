@@ -1,0 +1,13 @@
+{
+    "name": "Hardware Store",
+    "layout": "
+*****
+***L*
+*BBB*
+*BD**
+*****",
+    "base": 3,
+    "fort": 1,
+    "item": 2,
+    "skills": ["padlock", "hammer-nails"]
+}

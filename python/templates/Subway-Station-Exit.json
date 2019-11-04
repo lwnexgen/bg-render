@@ -1,0 +1,13 @@
+{
+    "name": "Subway Station",
+    "layout": "
+*****
+*****
+*UBU*
+*BBB*
+*****",
+    "base": 0,
+    "fort": 0,
+    "item": 0,
+    "skills": []
+}

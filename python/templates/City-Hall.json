@@ -1,0 +1,13 @@
+{
+    "name": "City Hall",
+    "layout": "
+*****
+**U**
+*LBR*
+**D**
+*****",
+    "base": 2,
+    "fort": 2,
+    "item": 1,
+    "skills": ["tools", "padlock"]
+}

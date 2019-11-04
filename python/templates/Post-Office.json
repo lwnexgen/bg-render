@@ -1,0 +1,13 @@
+{
+    "name": "Post Office",
+    "layout": "
+*****
+**UB*
+*LBB*
+*DB**
+*****",
+    "base": 3,
+    "fort": 1,
+    "item": 2,
+    "skills": ["tools", "running-man"]
+}

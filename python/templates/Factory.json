@@ -1,0 +1,13 @@
+{
+    "name": "Factory",
+    "layout": "
+*****
+***R*
+**BB*
+*|BB*
+*****",
+    "base": 2,
+    "fort": 1,
+    "item": 1,
+    "skills": ["syringe", "hammer-nails"]
+}

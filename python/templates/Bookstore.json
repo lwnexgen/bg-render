@@ -1,0 +1,13 @@
+{
+    "name": "Bookstore",
+    "layout": "
+*****
+*LB**
+*BBU*
+*D***
+*****",
+    "base": 1,
+    "fort": 2,
+    "item": 1,
+    "skills": ["book", "syringe"]
+}

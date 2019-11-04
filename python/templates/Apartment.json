@@ -1,0 +1,13 @@
+{
+    "name": "Apartment",
+    "layout": "
+*****
+*****
+*LUB*
+*BBR*
+*****",
+    "base": 4,
+    "fort": 1,
+    "item": 1,
+    "skills": ["padlock", "syringe"]
+}

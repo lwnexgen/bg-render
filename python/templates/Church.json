@@ -1,0 +1,13 @@
+{
+    "name": "Church",
+    "layout": "
+*****
+*BUB*
+*BBB*
+**/**
+*****",
+    "base": 5,
+    "fort": 1,
+    "item": 2,
+    "skills": ["tools", "syringe"]
+}

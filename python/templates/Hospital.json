@@ -1,0 +1,13 @@
+{
+    "name": "Hospital",
+    "layout": "
+*****
+*BUB*
+*LBB*
+*BDR*
+*****",
+    "base": 6,
+    "fort": 1,
+    "item": 2,
+    "skills": ["book", "running-man"]
+}

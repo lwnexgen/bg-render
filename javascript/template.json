@@ -1,0 +1,15 @@
+{
+    "name": "Building",
+    
+    "layout": "
+*****
+*****
+*LUB*
+*B*R*
+*****",
+    
+    "base": 4,
+    "fort": 1,
+    "item": 1,
+    "skills": ["lock", "syringe"]
+}

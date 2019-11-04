@@ -1,0 +1,13 @@
+{
+    "name": "High School",
+    "layout": "
+*****
+*****
+**UR*
+*LBB*
+*****",
+    "base": 2,
+    "fort": 2,
+    "item": 2,
+    "skills": ["tools", "hammer-nails"]
+}
